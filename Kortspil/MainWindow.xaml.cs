@@ -106,11 +106,11 @@ namespace Kortspil
                 kortnavn += "-";
                 kortnavn += suit;
                 kortnavn += ".jpg";
-                Console.Write("Filnavn:\t");
 
-                return kortnavn;
                 
             }
+// returnerer kortet
+                return kortnavn;
 
 
         }
